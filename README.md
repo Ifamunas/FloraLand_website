@@ -1,6 +1,6 @@
 # FloraLand_website
-An Online store for managing and selling plants and their care tools. 
-This is a coursework project built using HTML, CSS, JavaScript, and PHP stack.
+An online store for managing and selling plants and their care tools. 
+This is a coursework project built using HTML, CSS, JavaScript, PHP, and MySQL stack.
 
 # Interfaces Sample
 ![screencapture_Home](https://user-images.githubusercontent.com/85033378/173086099-9e59b3cf-4673-447c-b9a6-319c3142092a.png)
